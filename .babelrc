@@ -1,0 +1,13 @@
+{
+  "presets": ["next/babel"],
+  "plugins": [
+    "transform-react-pug",
+    [
+      "transform-jsx-classname-components",
+      {
+        "objects": ["motion"]
+      }
+    ],
+    "transform-react-jsx"
+  ]
+}

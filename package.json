@@ -8,8 +8,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^4.6.0",
+    "framer-motion": "^3.2.2-rc.1",
     "next": "10.0.5",
+    "node-sass": "^4.14.1",
     "react": "17.0.1",
     "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-jsx-classname-components": "0.0.3",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-plugin-transform-react-pug": "^7.0.1"
   }
 }
