@@ -96,17 +96,17 @@ section
         .card
           img.card-img.w-100.d-block(src='../img/clipboard-image.png')
           .card-img-overlay.d-flex.justify-content-center.align-items-end
-            h4 Gels
+            h4 Wels
       .col-md-3
         .card
           img.card-img.w-100.d-block(src='../img/clipboard-image.png')
           .card-img-overlay.d-flex.justify-content-center.align-items-end
-            h4 Additives
+            h4 More addtivirtes
       .col-md-3
         .card
           img.card-img.w-100.d-block(src='../img/clipboard-image.png')
           .card-img-overlay.d-flex.justify-content-center.align-items-end
-            h4 Chemicals
+            h4 Demicals
 section
   .container
     .row
