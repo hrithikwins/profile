@@ -77,10 +77,10 @@ section
       .col-md-4
         .d-flex.align-items-center.h-100.justify-content-center
           ul
-            li Item 1
-            li Item 2
-            li Item 3
-            li Item 4
+            li Item Demo text
+            li Item Demo text
+            li Item Demo text
+            li Item Demo text
 section
   .container
     .row
