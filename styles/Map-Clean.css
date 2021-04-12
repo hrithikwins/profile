@@ -18,6 +18,7 @@
 @media (max-width:767px) {
   .map-clean h2 {
     margin-bottom: 25px;
+    /* cool clean breakpoints */
     padding-top: 25px;
     font-size: 24px;
   }
