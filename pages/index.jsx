@@ -96,17 +96,17 @@ section
         .card
           img.card-img.w-100.d-block(src='../img/clipboard-image.png')
           .card-img-overlay.d-flex.justify-content-center.align-items-end
-            h4 Wels
+            h4 Welcome to My Profile
       .col-md-3
         .card
           img.card-img.w-100.d-block(src='../img/clipboard-image.png')
           .card-img-overlay.d-flex.justify-content-center.align-items-end
-            h4 More addtivirtes
+            h4 More Information
       .col-md-3
         .card
           img.card-img.w-100.d-block(src='../img/clipboard-image.png')
           .card-img-overlay.d-flex.justify-content-center.align-items-end
-            h4 Demicals
+            h4 My Projects
 section
   .container
     .row
