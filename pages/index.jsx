@@ -96,7 +96,7 @@ section
         .card
           img.card-img.w-100.d-block(src='../img/clipboard-image.png')
           .card-img-overlay.d-flex.justify-content-center.align-items-end
-            h4 Welcome to My Profile
+            h4 Welcome to Your Profile section
       .col-md-3
         .card
           img.card-img.w-100.d-block(src='../img/clipboard-image.png')
