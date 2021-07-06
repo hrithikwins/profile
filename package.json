@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "aos": "^2.3.4",
-    "bootstrap": "^4.6.0",
+    "bootstrap": "^5.0.2",
     "framer-motion": "^3.2.2-rc.1",
     "next": "10.0.5",
     "node-sass": "^4.14.1",

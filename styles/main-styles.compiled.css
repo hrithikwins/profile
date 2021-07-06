@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+
+* {
+  font-family: "Otomanopee One" !important;
+  font-weight: 900;
+}
+
+
+#hydrocut-heading {
+  font-size: 400%;
+}
+
+body {
+  background: #f1f8ff;
+}
+
+.green-blue-gradient {
+  background: linear-gradient(0deg, blue, green) !important;
+  background-color: red !important;
+}
+
+.bluecolor-main {
+  color: #1d1e63;
+}
+
+.bluecolor-muted {
+  color: #313158;
+}
+
+.purple-variant{
+    color: #2E294E;
+}
+
+.blue-variant{
+    color: #541388;
+}
+
+.pink-variant{
+    color: #D90368
+}
+.gray-variant{
+    color: #F1E9DA;
+}
+.yellow-variant{
+    color: #FFD400;
+}
+.primary-button-main {
+  color: #1d1e63;
+  background: rgba(54, 55, 97, 0.329);
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  border: 1px solid #1d1e63;
+}
+.primary-button-main:hover {
+  color: white;
+  background: #1d1e63;
+}
